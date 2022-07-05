@@ -1,3 +1,17 @@
+#Clone of Sugar-Cosmatic.
+This is a E-commerces website.
+Here You can find Beauty Product.
+This website is very user friendly.
+This Website is fully functional.
+This is a collaborative project. We build this website using React,React-redux,HTML,CSS & Bootstrap.
+My Team-Mates are : 1. Harishankar(Build The CartPage And Login Page), 2. Rahul Rajeevan (Build The Product Page), 3. Nachiketa lele(Build the Main landing Page)
+Our website Live Link: https://sugarcosmetic.netlify.app/
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
