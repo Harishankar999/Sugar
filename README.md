@@ -1,10 +1,29 @@
-#Clone of Sugar-Cosmatic.
+# Clone of Sugar-Cosmatic.
+## About Our Website
 This is a E-commerces website.
 Here You can find Beauty Product.
 This website is very user friendly.
 This Website is fully functional.
-This is a collaborative project. We build this website using React,React-redux,HTML,CSS & Bootstrap.
-My Team-Mates are : 1. Harishankar(Build The CartPage And Login Page), 2. Rahul Rajeevan (Build The Product Page), 3. Nachiketa lele(Build the Main landing Page)
+This is a collaborative project. We build this website using React,React-redux,HTML,CSS & Bootstrap. In this project my role was to build the cart page nad Login page of our website. we build this website in five days. due to time constraint we are unable complete the responsive part of our website. but if you want you can check it out. Link in the given below.
+### My Team-Mates are : 1. Harishankar(Build The CartPage And Login Page), 2. Rahul Rajeevan (Build The Product Page), 3. Nachiketa lele(Build the Main landing Page)
+
+### This is Our Main landing page:
+![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/Sugar%20home%20page.png?raw=true)
+
+### This is Login page of our website:
+![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/Sugar%20Login.png?raw=true)
+
+### This is Product page of our website:
+![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/sugar%20productpage.png?raw=true)
+
+### This is Cart page of our website:
+![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/sugar%20cartpsge.png?raw=true)
+
+### This is Wishlist page of our website:
+![This is an image](https://github.com/Harishankar999/project-screentshot/blob/main/project%20screenshot/sugar%20wishlist.png?raw=true)
+
+
+
 Our website Live Link: https://sugarcosmetic.netlify.app/
 
 
