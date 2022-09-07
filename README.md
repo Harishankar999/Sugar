@@ -24,7 +24,7 @@ This is a collaborative project. We build this website using React,React-redux,H
 
 
 
-Our website Live Link: https://sugarcosmetic.netlify.app/
+Our website Live Link: https://sugar-cosmatics.vercel.app/
 
 
 
